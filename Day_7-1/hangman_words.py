@@ -1,0 +1,12 @@
+word_list = ["ardvark",
+"gagkark",
+"crdvark",
+"fabbark",
+"lijik",
+"zodiark",
+"baboson",
+"kannodon",
+"bsabdoon",
+"saboson",
+"aabodon",
+"camel"]
